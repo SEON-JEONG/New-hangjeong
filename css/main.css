@@ -9,7 +9,7 @@
 
 body {background: #ccc;  font-family:'SUITE-Regular',',Malgun Gothic','맑은고딕'; height: 3800; with:800px }
 
-#container {width: 800px; max-width: 1300px; min-width: 800px; margin: auto; background: white; height: 3800px;}
+#container {width: 800px; max-width: 640px; min-width: 320px; margin: auto; background: white; height: 3800px;}
 
 header {position: fixed; top:0; left: 0; right: 0; width: 800px;      
         margin: auto; background: white; z-index: 100;
